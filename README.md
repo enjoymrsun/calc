@@ -1,6 +1,6 @@
 # Calc
 
-**TODO: Add description**
+**Calculator Written in Elixir, supporting * / + - () operations.**
 
 ## Installation
 

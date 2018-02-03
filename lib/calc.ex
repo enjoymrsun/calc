@@ -86,12 +86,12 @@ defmodule Calc do
 
   ## Examples
 
-    iex> 34*10-4*(-6*3+10)
-    372
-    iex> 5*(-10) * 10 +712-30*12
-    -148
-    iex> 5* 3+ 10-(-10*2)
-    45
+      iex> Calc.eval("34*10-4*(-6*3+10)")
+      372
+      iex> Calc.eval("5*(-10) * 10 +712-30*12")
+      -148
+      iex> Calc.eval("5* 3+ 10-(-10*2)")
+      45
 
   """
   def eval(str) do

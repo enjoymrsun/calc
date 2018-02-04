@@ -12,7 +12,7 @@ $ iex -S mix
 $ Calc.main()
 ```
 
-Then, type whatever equation you want to calculate and **have fun**!
+Then, type whatever equation you want to calculate and **have fun!**
 
-Want to test your memory? Checkout this awesome game written in **React**!
-[Memory](http://memory.enjoymyweb.com)
+Want to test your memory? Checkout this [Memory](http://memory.enjoymyweb.com)
+awesome game written in **React!**

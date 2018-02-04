@@ -1,21 +1,18 @@
 # Calc
 
-**Calculator Written in Elixir, supporting * / + - () operations.**
+**Calculator Written in Elixir, supporting * / + - () operations and space.**
 
-## Installation
+## How To Use
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `calc` to your list of dependencies in `mix.exs`:
+Fork and `Clone` this repo. In your directory, open terminal and type in:
 
-```elixir
-def deps do
-  [
-    {:calc, "~> 0.1.0"}
-  ]
-end
+```bash
+$ iex -S mix
+
+$ Calc.main()
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/calc](https://hexdocs.pm/calc).
+Then, type whatever equation you want to calculate and **have fun**!
 
+Want to test your memory? Checkout this awesome game written in **React**!
+[Memory](http://memory.enjoymyweb.com)
